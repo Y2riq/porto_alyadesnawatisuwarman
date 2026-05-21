@@ -63,7 +63,7 @@ const experiences = [
     role: "Staff Back Office Assistant (Intern)",
     company: "Bank Jabar Banten (BJB)",
     period: "September 2022 - Oktober 2022",
-    photos: ["/public/bjb/1.png","/public/bjb/2.jpeg","/public/bjb/3.jpeg",],
+    photos: ["/porto_alyadesnawatisuwarman/bjb/1.png","/porto_alyadesnawatisuwarman/bjb/2.jpeg","/porto_alyadesnawatisuwarman/bjb/3.jpeg",],
     points: [
       "Melakukan penyortiran dan pendistribusian laporan.",
       "Menyusun lebih dari 20 files kredit konsumer sesuai dengan tanggal dan bulan.",
