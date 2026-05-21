@@ -13,11 +13,9 @@ type SectionProps = {
 const projectsData = [
   {
     title: "Pendukung kerja sama konten kreator",
-    image: "/images/project-sai.jpg",
-    desc: "Sistem untuk mengelola data administrasi, pengarsipan dokumen digital, dan kontrol stok barang secara sistematis.",
-    role: "Admin & Operations",
-    tech: ["MS Office", "Google Workspace", "Inventory Management"],
-    outcome: "Meningkatkan efisiensi pencarian dokumen dan akurasi stok barang.",
+    desc: "Membantu tim konten kreator dalam menjalin kerjasama dengan berbagai pihak, seperti hotel, tempat camping, dan lokasi lainnya. Tugas saya meliputi riset calon pihak terkait, menghubungi pihak tersebut untukp penawaran kolaborasi, serta membantu koordinasi awal agar kerjasam konten dapat berjalan dengan lancar.",
+    tech: ["Whatsapp", "Google Excel", "Google Docs"],
+    outcome: "Meningkatkan relasi dan kerjasama dengan kafe, hotel, dan tempat wisata untuk mendukung kebutuhan konten dan promosi.",
   },
 ];
 
@@ -37,7 +35,7 @@ const experiences = [
     role: "Admin Umum & Staff Produksi (Crating)",
     company: "CV. MLY Cipta Lestari",
     period: "Agustus 2025 - Januari 2026",
-    photos: ["/porto_alyadesnawatisuwarman/mly/1.jpeg", "/porto_alyadesnawatisuwarman/mly/2.jpeg", "/porto_alyadesnawatisuwarman/mly/3.jpeg", "/porto_alyadesnawatisuwarman/mly/4.jpeg", "/porto_alyadesnawatisuwarman/mly/5.jpeg", "/porto_alyadesnawatisuwarman/mly/6.jpeg"],
+    photos: ["/porto_alyadesnawatisuwarman/mly/1.jpeg", "/porto_alyadesnawatisuwarman/mly/2.jpeg", "/porto_alyadesnawatisuwarman/mly/3.jpeg", "/porto_alyadesnawatisuwarman/mly/4.jpeg", "/porto_alyadesnawatisuwarman/mly/5.jpeg"],
     points: [
       "Mengelola arsip, dokumen, dan surat-menyurat perusahaan agar tertata rapi dan mudah diakses.",
       "Mengelola administrasi keuangan meliputi pencatatan pengeluaran dan pemasukan harian secara akurat, serta proses penggajian karyawan bulanan.",
@@ -63,7 +61,7 @@ const experiences = [
     role: "Staff Back Office Assistant (Intern)",
     company: "Bank Jabar Banten (BJB)",
     period: "September 2022 - Oktober 2022",
-    photos: ["/porto_alyadesnawatisuwarman/bjb/1.png","/porto_alyadesnawatisuwarman/bjb/2.jpeg","/porto_alyadesnawatisuwarman/bjb/3.jpeg",],
+    photos: ["/porto_alyadesnawatisuwarman/bjb/2.jpeg","/porto_alyadesnawatisuwarman/bjb/3.jpeg",],
     points: [
       "Melakukan penyortiran dan pendistribusian laporan.",
       "Menyusun lebih dari 20 files kredit konsumer sesuai dengan tanggal dan bulan.",
@@ -329,7 +327,7 @@ export default function App() {
         <h2 className="mb-4 text-4xl font-bold">Mari Terhubung</h2>
 
         <p className="mx-auto mb-8 max-w-md opacity-70">
-          Terbuka untuk peluang kerja di bidang Administrasi, Finance, dan
+          Terbuka untuk peluang kerja di bidang Administrasi, Finance, Customer Service, dan
           Operasional Perbankan.
         </p>
 
