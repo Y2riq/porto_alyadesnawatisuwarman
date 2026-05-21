@@ -8,8 +8,8 @@ const skillImages: Record<string, string> = {
   Instagram: "././porto_alyadesnawatisuwarman/ig.png",
   Tiktok: "././porto_alyadesnawatisuwarman/tt.png",
   Capcut: "././porto_alyadesnawatisuwarman/capcut.png",
-  VN: "././porto_alyadesnawatisuwarman/vn.png",
-  Cekat_AI: "././porto_alyadesnawatisuwarman/cekat.png",
+  VN: "././public/vn.png",
+  Cekat_AI: "././public/cekat.png",
 }
 
 export { skillImages };
