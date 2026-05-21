@@ -26,7 +26,7 @@ const experiences = [
     role: "Customer Service (Intern)",
     company: "PT. Mangprang Persada Sinergi (Hijacket)",
     period: "Februari 2026 - Sekarang",
-    photos: ["/public/hjc/1.jpg", "/public/hjc/2.jpg", "/public/hjc/4.jpeg", "/public/hjc/3.jpg"],
+    photos: ["/porto_alyadesnawatisuwarman/hjc/1.jpg", "/porto_alyadesnawatisuwarman/hjc/2.jpg", "/porto_alyadesnawatisuwarman/hjc/4.jpeg", "/porto_alyadesnawatisuwarman/hjc/3.jpg"],
     points: [
       "Memantau dan mengelola komunikasi pelanggan melalui AI chatbot, WhatsApp Business, serta Meta Business Suite (Instagram & Facebook) dengan rata-rata ±500 chat per hari.",
       "Menangani pertanyaan, keluhan, serta memberikan informasi produk dan pemesanan secara jelas, ramah dan solutif.",
@@ -37,7 +37,7 @@ const experiences = [
     role: "Admin Umum & Staff Produksi (Crating)",
     company: "CV. MLY Cipta Lestari",
     period: "Agustus 2025 - Januari 2026",
-    photos: ["/public/mly/1.jpeg", "/public/mly/2.jpeg", "/public/mly/3.jpeg", "/public/mly/4.jpeg", "/public/mly/5.jpeg", "/public/mly/6.jpeg"],
+    photos: ["/porto_alyadesnawatisuwarman/mly/1.jpeg", "/porto_alyadesnawatisuwarman/mly/2.jpeg", "/porto_alyadesnawatisuwarman/mly/3.jpeg", "/porto_alyadesnawatisuwarman/mly/4.jpeg", "/porto_alyadesnawatisuwarman/mly/5.jpeg", "/porto_alyadesnawatisuwarman/mly/6.jpeg"],
     points: [
       "Mengelola arsip, dokumen, dan surat-menyurat perusahaan agar tertata rapi dan mudah diakses.",
       "Mengelola administrasi keuangan meliputi pencatatan pengeluaran dan pemasukan harian secara akurat, serta proses penggajian karyawan bulanan.",
@@ -51,7 +51,7 @@ const experiences = [
     role: "Customer Service & Kasir",
     company: "Vidiz Baniar Skincare",
     period: "November 2024 - Juni 2025",
-    photos: ["/public/vdz/1.jpg","/public/vdz/2.jpeg","/public/vdz/3.jpeg",],
+    photos: ["/porto_alyadesnawatisuwarman/vdz/1.jpg","/porto_alyadesnawatisuwarman/vdz/2.jpeg","/porto_alyadesnawatisuwarman/vdz/3.jpeg",],
     points: [
       "Menghimpun puluhan transaksi penjualan per hari secara tunai, debit atau kredit dengan akurat untuk menunjang operasional pelayanan.",
       "Mengelola menyelesaikan rata-rata 15 keluhan pelanggan/pasien per hari dengan tingkat kepuasan mencapai 80%.",
