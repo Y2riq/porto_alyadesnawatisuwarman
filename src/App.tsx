@@ -327,7 +327,7 @@ export default function App() {
         <h2 className="mb-4 text-4xl font-bold">Mari Terhubung</h2>
 
         <p className="mx-auto mb-8 max-w-md opacity-70">
-          Terbuka untuk peluang kerja di bidang Administrasi, Finance, Customer Service, dan
+          Terbuka untuk peluang kerja di bidang Administrasi, Customer Service, dan
           Operasional Perbankan.
         </p>
 
