@@ -1,6 +1,6 @@
 const skillImages: Record<string, string> = {
-  Google_Docs: "././public/docs.png",
-  Google_Sheets: "././public/spp.png",
+  Google_Docs: "././porto_alyadesnawatisuwarman/docs.png",
+  Google_Sheets: "././porto_alyadesnawatisuwarman/spp.png",
   Google_Drive: "././public/gd.png",
   Microsoft_Word: "././public/word.png",
   Microsoft_Powerpoint: "././public/ppt.png",
