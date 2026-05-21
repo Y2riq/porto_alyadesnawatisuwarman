@@ -143,7 +143,7 @@ export default function App() {
             </h2>
 
             <a
-              href="/public/CV_Alya.pdf"
+              href="/porto_alyadesnawatisuwarman/CV_Alya.pdf"
               className="inline-block rounded-full bg-slate-900 px-8 py-4 font-semibold text-white transition-transform hover:scale-105 dark:bg-white dark:text-slate-900"
             >
               Download CV
