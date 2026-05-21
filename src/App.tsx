@@ -124,7 +124,7 @@ export default function App() {
           <div className="flex justify-center md:justify-start">
             <div className="h-80 w-64 overflow-hidden rounded-3xl bg-slate-100 shadow-2xl md:h-96 md:w-80">
               <img
-                src="{`${import.meta.env.BASE_URL}foto.PNG`}"
+                src={`${import.meta.env.BASE_URL}foto.PNG`}
                 alt="Alya Desnawati Suwarman"
                 className="h-full w-full object-cover object-top"
               />
