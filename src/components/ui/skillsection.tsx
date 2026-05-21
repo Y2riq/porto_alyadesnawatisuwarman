@@ -1,15 +1,15 @@
 const skillImages: Record<string, string> = {
-  Google_Docs: "././porto_alyadesnawatisuwarman/docs.png",
-  Google_Sheets: "././porto_alyadesnawatisuwarman/spp.png",
-  Google_Drive: "././porto_alyadesnawatisuwarman/gd.png",
-  Microsoft_Word: "././porto_alyadesnawatisuwarman/word.png",
-  Microsoft_Powerpoint: "././porto_alyadesnawatisuwarman/ppt.png",
-  Microsoft_Excel: "././porto_alyadesnawatisuwarman/excel.png",
-  Instagram: "././porto_alyadesnawatisuwarman/ig.png",
-  Tiktok: "././porto_alyadesnawatisuwarman/tt.png",
-  Capcut: "././porto_alyadesnawatisuwarman/capcut.png",
-  VN: "././public/vn.png",
-  Cekat_AI: "././public/cekat.png",
+  Google_Docs: "{`${import.meta.env.BASE_URL}docs.png`}",
+  Google_Sheets: "{`${import.meta.env.BASE_URL}spp.png`}",
+  Google_Drive: "{`${import.meta.env.BASE_URL}gd.png`}",
+  Microsoft_Word: "{`${import.meta.env.BASE_URL}word.png`}",
+  Microsoft_Powerpoint: "{`${import.meta.env.BASE_URL}ppt.png`}",
+  Microsoft_Excel: "{`${import.meta.env.BASE_URL}excel.png`}",
+  Instagram: "{`${import.meta.env.BASE_URL}ig.png`}",
+  Tiktok: "{`${import.meta.env.BASE_URL}tt.png`}",
+  Capcut: "{`${import.meta.env.BASE_URL}capcut.png`}",
+  VN: "{`${import.meta.env.BASE_URL}vn.png`}",
+  Cekat_AI: "{`${import.meta.env.BASE_URL}cekat.png`}",
 }
 
 export { skillImages };
