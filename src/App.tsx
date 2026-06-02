@@ -23,7 +23,7 @@ const experiences = [
   {
     role: "Customer Service (Intern)",
     company: "PT. Mangprang Persada Sinergi (Hijacket)",
-    period: "Februari 2026 - Sekarang",
+    period: "Februari 2026 - Mei 2026",
     photos: ["/porto_alyadesnawatisuwarman/hjc/1.jpg", "/porto_alyadesnawatisuwarman/hjc/2.jpg", "/porto_alyadesnawatisuwarman/hjc/4.jpeg", "/porto_alyadesnawatisuwarman/hjc/3.jpg"],
     points: [
       "Memantau dan mengelola komunikasi pelanggan melalui AI chatbot, WhatsApp Business, serta Meta Business Suite (Instagram & Facebook) dengan rata-rata ±500 chat per hari.",
@@ -32,7 +32,7 @@ const experiences = [
     ],
   },
   {
-    role: "Admin Umum & Staff Produksi (Crating)",
+    role: "Admin Umum & Staff Produksi (Crafting)",
     company: "CV. MLY Cipta Lestari",
     period: "Agustus 2025 - Januari 2026",
     photos: ["/porto_alyadesnawatisuwarman/mly/1.jpeg", "/porto_alyadesnawatisuwarman/mly/2.jpeg", "/porto_alyadesnawatisuwarman/mly/3.jpeg", "/porto_alyadesnawatisuwarman/mly/4.jpeg", "/porto_alyadesnawatisuwarman/mly/5.jpeg"],
